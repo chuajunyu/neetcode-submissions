@@ -1,4 +1,4 @@
-name: Notify Accountability Bot
+name: Notify Streaky Bot
 
 on:
   push:
